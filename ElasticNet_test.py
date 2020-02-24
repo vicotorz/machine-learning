@@ -1,4 +1,6 @@
-# 导入数据
+#
+
+# 导入数据fsads
 from sklearn.datasets import load_boston
 boston = load_boston()
 x = boston.data

@@ -1,3 +1,5 @@
+# SVM
+
 # 生成数据集
 from sklearn.datasets import make_circles
 
